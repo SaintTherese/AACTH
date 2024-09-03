@@ -204,6 +204,11 @@
     background-size: cover;
 }
 
+.page-header-readingmaterial {
+    background: url(../img/banner8.PNG) center center no-repeat;
+    background-size: cover;
+}
+
 .page-header .breadcrumb-item+.breadcrumb-item::before {
     color: var(--light);
 }
