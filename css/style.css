@@ -18,6 +18,11 @@
     font-weight: 600;
 }
 
+.text-subheader
+{
+   font-weight: 300; color:#842029 !important;
+}
+
 .fw-bold {
     font-weight: 700;
 }
