@@ -88,6 +88,14 @@
     font-weight: normal;
 }
 
+.subtitle {
+display: flex;
+align-items: center;
+justify-content: center;
+fontsize: 30px;
+fontweight: bold;
+}
+
 
 /*** Navbar ***/
 .sticky-top {
