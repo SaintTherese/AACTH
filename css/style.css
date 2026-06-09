@@ -89,9 +89,7 @@
 }
 
 .subtitle {
-display: flex;
-align-items: center;
-justify-content: center;
+vertical-align: center;
 fontsize: 100px;
 fontweight: bold;
 }
